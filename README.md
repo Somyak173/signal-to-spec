@@ -104,16 +104,6 @@ match,name,effort_weeks
 notification,Notification overload,2
 ```
 
-## Optional: draft with Claude
-
-```bash
-pip install anthropic
-export ANTHROPIC_API_KEY=...
-python -m signal_to_spec data/sample_feedback.csv -o output --llm
-```
-
-With `--llm`, Claude names each theme in plain English, writes a one-line problem statement, and drafts user stories with acceptance criteria, risks and open questions for each PRD, grounded only in the feedback for that theme. The user stories are also added to the Jira backlog. Without a key the tool runs fully offline and never fails because of this layer. Set `S2S_MODEL` to choose a different model.
-
 ## Importing the backlog into Jira
 
 In Jira, use the CSV importer and map `Issue Id` → Issue ID, `Parent Id` → Parent ID, and both `Labels` columns → Labels. Each epic arrives with three tasks: interview five affected accounts (named in the task), an engineering spike, and an instrumentation task to baseline a success metric.
@@ -127,7 +117,7 @@ signal_to_spec/
   scoring.py     sentiment, urgency, Reach/Impact/Confidence, team review
   artifacts.py   PRD drafts, Jira CSV, opportunities CSV
   report.py      self-contained HTML report
-  llm.py         optional Claude layer
+  llm.py         optional drafting step (off by default)
   cli.py         command line
 data/
   generate_sample_feedback.py   seeded generator for the synthetic dataset
