@@ -1,0 +1,281 @@
+id,date,source,segment,account,seats,text
+FB-0001,2026-08-11,App review,Premium,Cedarridge Energy,295,Automation rules saved us a lot of manual work.
+FB-0002,2026-08-11,Support ticket,Premium,Cedarridge Energy,295,Automation rules saved us a lot of manual work.
+FB-0003,2026-08-11,Customer interview,Standard,Lumengate Health,56,The mobile app crashes when I open a large project. Please prioritize this.
+FB-0004,2026-08-11,NPS comment,Free,Quartzstack Software,4,There's no way to mute notifications for a single project.
+FB-0005,2026-08-11,NPS comment,Premium,Summitstack Software,92,"We want custom permission roles, for example can comment but not edit."
+FB-0006,2026-08-12,Sales call,Enterprise,Cedarline Studio,2359,"Customer said: external agency users can see our internal projects, that's a compliance problem. It's blocking our rollout to the rest of the company."
+FB-0007,2026-08-12,Community forum,Standard,Lumengate Health,56,Automation rules saved us a lot of manual work.
+FB-0008,2026-08-13,Customer interview,Standard,Tidalline Studio,87,There's no way to mute notifications for a single project. Our renewal is coming up and this keeps coming up.
+FB-0009,2026-08-13,Customer interview,Free,Vectorstack Software,8,"Onboarding was confusing, the setup has too many options for a new team."
+FB-0010,2026-08-14,Community forum,Standard,Copperline Studio,109,The Slack integration stopped posting updates to our channel again. We're evaluating other tools because of this.
+FB-0011,2026-08-14,NPS comment,Premium,Harborpoint Bank,508,Searching across projects is slow and the search misses archived items. Our renewal is coming up and this keeps coming up.
+FB-0012,2026-08-14,Customer interview,Free,Ironfield Media,6,"My inbox is flooded with Relay notifications, I've started ignoring all of them."
+FB-0013,2026-08-15,App review,Free,Cedarlight Education,3,"Clean interface, our designers actually enjoy using it."
+FB-0014,2026-08-15,NPS comment,Standard,Ironline Studio,26,"A typo in search returns nothing, search should be more forgiving."
+FB-0015,2026-08-16,Support ticket,Free,Brightwave Retail,4,Attachments fail to upload from the mobile app.
+FB-0016,2026-08-16,Community forum,Free,Brightwave Retail,4,Attachments fail to upload from the mobile app.
+FB-0017,2026-08-16,Community forum,Premium,Northpath Logistics,120,Searching across projects is slow and the search misses archived items. Please prioritize this.
+FB-0018,2026-08-17,App review,Standard,Copperstack Software,108,Notification spam is the most common complaint in our internal survey. Several people on my team have raised this.
+FB-0019,2026-08-17,NPS comment,Free,Harborcraft Agency,6,"The mobile app is read-only for most things, I need to update status on the go."
+FB-0020,2026-08-17,Customer interview,Enterprise,Stoneline Studio,4269,"We want custom permission roles, for example can comment but not edit. Our renewal is coming up and this keeps coming up."
+FB-0021,2026-08-17,Community forum,Standard,Summitline Studio,18,"Searching old documents is useless, the search results are not relevant."
+FB-0022,2026-08-18,NPS comment,Enterprise,Atlaspoint Bank,4167,Love how easy it is to drag tasks between columns.
+FB-0023,2026-08-18,App review,Standard,Brightgate Health,64,Love how easy it is to drag tasks between columns.
+FB-0024,2026-08-18,Community forum,Enterprise,Harborline Studio,4625,"Search results are ordered randomly, what I need is always on page 3. It's blocking our rollout to the rest of the company."
+FB-0025,2026-08-18,Customer interview,Standard,Summitline Studio,18,"Interview note: Searching old documents is useless, the search results are not relevant."
+FB-0026,2026-08-19,Community forum,Standard,Vectorpath Logistics,12,The webhook integration drops events when we push a lot of updates.
+FB-0027,2026-08-19,App review,Enterprise,Vectorwave Retail,4134,The board view is painfully slow once a project gets big.
+FB-0028,2026-08-21,App review,Enterprise,Cedarline Studio,2359,We split one project into three just because the board was too slow to load. This happens daily.
+FB-0029,2026-08-21,Support ticket,Standard,Coralridge Energy,114,Velocity reporting across multiple teams is missing.
+FB-0030,2026-08-21,Support ticket,Standard,Northpoint Bank,94,Audit requirements mean we must control and log who can access each project.
+FB-0031,2026-08-21,NPS comment,Free,Tidalstack Software,10,The Android app is much slower than the iPhone app.
+FB-0032,2026-08-22,Community forum,Enterprise,Atlasworks,2555,Exporting reports to CSV loses all the custom fields.
+FB-0033,2026-08-22,Community forum,Standard,Coralpoint Bank,20,Notification overload: I'm auto-watching 40 tasks and can't turn it off.
+FB-0034,2026-08-22,Community forum,Standard,Quartzcraft Agency,37,Board performance on big projects has gotten worse since the last update.
+FB-0035,2026-08-22,Customer interview,Enterprise,Stoneridge Energy,4776,"Great product overall, and the pricing is fair for small teams."
+FB-0036,2026-08-24,Support ticket,Enterprise,Cedarline Studio,2359,Filtering a board with a few thousand cards hangs for 10 seconds.
+FB-0037,2026-08-24,App review,Free,Harborridge Energy,3,Importing from spreadsheets during onboarding setup failed silently. We're evaluating other tools because of this.
+FB-0038,2026-08-24,Support ticket,Free,Orbitpoint Bank,3,The webhook integration drops events when we push a lot of updates. Our renewal is coming up and this keeps coming up.
+FB-0039,2026-08-24,Support ticket,Free,Riverpath Logistics,4,First-time setup asked too many onboarding questions before showing any value.
+FB-0040,2026-08-25,NPS comment,Standard,Bluecraft Agency,40,"Onboarding was confusing, the setup has too many options for a new team."
+FB-0041,2026-08-25,Sales call,Premium,Stoneworks,345,Notification overload: I'm auto-watching 40 tasks and can't turn it off.
+FB-0042,2026-08-27,App review,Standard,Copperstack Software,108,I missed an important mention because it was buried in 200 other notifications. It's blocking our rollout to the rest of the company.
+FB-0043,2026-08-27,Community forum,Standard,Copperwave Retail,49,The Google Calendar sync for due dates keeps duplicating events.
+FB-0044,2026-08-27,Community forum,Premium,Harborfield Media,303,"Catching up on a 150-comment thread is painful, give me an AI summary of the key decisions."
+FB-0045,2026-08-27,Sales call,Premium,Silverworks,183,"Customer said: i spend hours building reports in spreadsheets because Relay reporting is weak. Not a dealbreaker, but annoying."
+FB-0046,2026-08-28,Community forum,Premium,Cedarridge Energy,295,We need cycle time and lead time reports out of the box.
+FB-0047,2026-08-28,NPS comment,Free,Harborridge Energy,3,"Great product overall, and the pricing is fair for small teams."
+FB-0048,2026-08-28,Community forum,Standard,Vectorpath Logistics,12,Slack link previews for Relay tasks are broken in our workspace. Please prioritize this.
+FB-0049,2026-08-29,Support ticket,Premium,Coralwave Retail,313,Slack link previews for Relay tasks are broken in our workspace. Our renewal is coming up and this keeps coming up.
+FB-0050,2026-08-29,NPS comment,Free,Harborridge Energy,3,It took us a week of setup to understand workflows vs boards during onboarding. Several people on my team have raised this.
+FB-0051,2026-08-29,Sales call,Standard,Maplewave Retail,107,Can Relay summarize a project's weekly progress so I don't have to write status updates?
+FB-0052,2026-08-29,App review,Standard,Orbitgate Health,80,Our non-technical teammates gave up halfway through onboarding setup.
+FB-0053,2026-08-30,Sales call,Standard,Quartzcraft Agency,37,"Managing permissions for 3,000 users is impossible without groups. Please prioritize this."
+FB-0054,2026-08-30,NPS comment,Enterprise,Quartzwave Retail,4672,"Long comment threads are impossible to catch up on, an AI summary would save hours. Several people on my team have asked for this."
+FB-0055,2026-08-30,App review,Premium,Stonewave Retail,67,First-time setup asked too many onboarding questions before showing any value. Otherwise we like the product.
+FB-0056,2026-08-30,Community forum,Premium,Vectorfield Media,290,"We need per-channel notification controls for email, in-app and Slack."
+FB-0057,2026-08-31,App review,Enterprise,Atlaslight Education,1572,"Large backlogs are basically unusable, scrolling stutters and cards load late. Please prioritize this."
+FB-0058,2026-08-31,Customer interview,Free,Silverwave Retail,7,"My inbox is flooded with Relay notifications, I've started ignoring all of them."
+FB-0059,2026-08-31,Support ticket,Standard,Summitline Studio,18,I missed an important mention because it was buried in 200 other notifications.
+FB-0060,2026-09-02,Support ticket,Enterprise,Cedarline Studio,2359,The burndown report doesn't account for scope changes. Otherwise we like the product.
+FB-0061,2026-09-02,App review,Enterprise,Orbitfin Labs,4331,"Large backlogs are basically unusable, scrolling stutters and cards load late. Several people on my team have raised this."
+FB-0062,2026-09-03,NPS comment,Premium,Copperlight Education,468,Searching across projects is slow and the search misses archived items. This happens daily.
+FB-0063,2026-09-03,Community forum,Standard,Copperstack Software,108,Support was super helpful when we migrated.
+FB-0064,2026-09-03,NPS comment,Premium,Northpath Logistics,120,"The onboarding tour skipped what we needed, like inviting teammates during setup."
+FB-0065,2026-09-03,NPS comment,Enterprise,Silverlight Education,1243,"Search should understand questions, not just exact keywords."
+FB-0066,2026-09-04,App review,Premium,Cedarstack Software,589,"Large backlogs are basically unusable, scrolling stutters and cards load late."
+FB-0067,2026-09-04,Sales call,Premium,Maplestack Software,81,"Customer said: custom dashboards are too limited, we can't chart by custom fields."
+FB-0068,2026-09-04,Community forum,Free,Northlight Education,9,The onboarding templates don't match how small teams actually work.
+FB-0069,2026-09-04,Customer interview,Premium,Pinelight Education,406,I spend hours building reports in spreadsheets because Relay reporting is weak. This happens daily.
+FB-0070,2026-09-05,Customer interview,Free,Cedarcraft Agency,10,Interview note: Notification spam is the most common complaint in our internal survey. Several people on my team have raised this.
+FB-0071,2026-09-05,NPS comment,Standard,Summitline Studio,18,Search can't find tasks I know exist unless I type the exact title.
+FB-0072,2026-09-06,NPS comment,Standard,Brightfin Labs,116,"Coming back from vacation, I need a summary of what changed on my tasks. We'd upgrade our plan for this."
+FB-0073,2026-09-06,Support ticket,Premium,Cedarstack Software,589,We need guest access for contractors limited to one project. Please prioritize this.
+FB-0074,2026-09-06,Community forum,Enterprise,Stoneridge Energy,4776,Velocity reporting across multiple teams is missing.
+FB-0075,2026-09-07,Support ticket,Enterprise,Atlaspoint Bank,4167,We had to reconnect the GitHub integration three times this month. It's blocking our rollout to the rest of the company.
+FB-0076,2026-09-07,Support ticket,Enterprise,Atlasworks,2555,Board performance on big projects has gotten worse since the last update.
+FB-0077,2026-09-07,App review,Enterprise,Atlasworks,2555,I missed an important mention because it was buried in 200 other notifications.
+FB-0078,2026-09-07,Community forum,Standard,Cedarworks,17,"We need search filters by date, project and owner. It's blocking our rollout to the rest of the company."
+FB-0079,2026-09-07,Sales call,Free,Northlight Education,9,Loading our main project board freezes the browser tab for several seconds.
+FB-0080,2026-09-07,Community forum,Enterprise,Silverlight Education,1243,Velocity reporting across multiple teams is missing.
+FB-0081,2026-09-07,Sales call,Premium,Stonewave Retail,67,"Permissions are too coarse, we can't hide a confidential project from the whole company. Please prioritize this."
+FB-0082,2026-09-08,Customer interview,Premium,Harborfield Media,303,Velocity reporting across multiple teams is missing.
+FB-0083,2026-09-08,App review,Standard,Maplepath Logistics,78,Search doesn't look inside comments or attachments. Otherwise we like the product.
+FB-0084,2026-09-08,Support ticket,Standard,Northpoint Bank,94,"A typo in search returns nothing, search should be more forgiving."
+FB-0085,2026-09-09,Support ticket,Free,Bluegate Health,5,"I get an email notification for every single comment, it's way too noisy. Otherwise we like the product."
+FB-0086,2026-09-09,App review,Free,Brightpath Logistics,8,No offline mode in the mobile app makes it useless on flights. Several people on my team have raised this.
+FB-0087,2026-09-09,Community forum,Premium,Harborfield Media,303,"My inbox is flooded with Relay notifications, I've started ignoring all of them. This happens daily."
+FB-0088,2026-09-09,NPS comment,Premium,Lumenfield Media,398,Our roadmap board times out when we filter by assignee.
+FB-0089,2026-09-09,Sales call,Premium,Lumenfield Media,398,"Customer said: managing permissions for 3,000 users is impossible without groups. Our renewal is coming up and this keeps coming up."
+FB-0090,2026-09-09,NPS comment,Premium,Maplestack Software,81,Loading our main project board freezes the browser tab for several seconds.
+FB-0091,2026-09-11,App review,Premium,Copperfield Media,442,Backlog load time is the number one complaint from my engineers.
+FB-0092,2026-09-11,Customer interview,Enterprise,Silverfin Labs,2790,"Interview note: Managing permissions for 3,000 users is impossible without groups. Otherwise we like the product."
+FB-0093,2026-09-12,Customer interview,Enterprise,Atlaspoint Bank,4167,Restricting project access by team instead of by individual user would save admins hours.
+FB-0094,2026-09-12,App review,Standard,Coralridge Energy,114,Our execs saw AI summary features in a competitor demo and asked why Relay has none. Please prioritize this.
+FB-0095,2026-09-12,App review,Free,Orbitcraft Agency,6,Being auto-watched on every task I touch creates endless notification noise.
+FB-0096,2026-09-13,Support ticket,Free,Cedarcraft Agency,10,"Notification settings are buried and too coarse, it's all or nothing. It's blocking our rollout to the rest of the company."
+FB-0097,2026-09-13,NPS comment,Premium,Harborfield Media,303,"My inbox is flooded with Relay notifications, I've started ignoring all of them."
+FB-0098,2026-09-14,Community forum,Free,Coralworks,8,"The mobile app is read-only for most things, I need to update status on the go."
+FB-0099,2026-09-14,NPS comment,Premium,Vectorfield Media,290,"Search can't find tasks I know exist unless I type the exact title. Not a dealbreaker, but annoying."
+FB-0100,2026-09-15,Community forum,Enterprise,Cedarline Studio,2359,Leadership wants a portfolio dashboard that reports across all projects. Our renewal is coming up and this keeps coming up.
+FB-0101,2026-09-15,App review,Premium,Harborfield Media,303,Please let me batch notifications into a daily digest instead of instant emails. It's blocking our rollout to the rest of the company.
+FB-0102,2026-09-15,NPS comment,Standard,Ironline Studio,26,"Teammates turned notifications off entirely, so now they miss real mentions. Our renewal is coming up and this keeps coming up."
+FB-0103,2026-09-15,Customer interview,Standard,Tidalgate Health,40,We'd pay extra for AI that summarizes what happened in a sprint and flags risks.
+FB-0104,2026-09-16,NPS comment,Premium,Corallight Education,285,"Search should understand questions, not just exact keywords. Please prioritize this."
+FB-0105,2026-09-16,Customer interview,Enterprise,Silverlight Education,1243,"Interview note: Catching up on a 150-comment thread is painful, give me an AI summary of the key decisions."
+FB-0106,2026-09-16,App review,Premium,Stonewave Retail,67,Support was super helpful when we migrated.
+FB-0107,2026-09-16,App review,Standard,Tidalline Studio,87,Notification spam is the most common complaint in our internal survey.
+FB-0108,2026-09-17,Community forum,Standard,Bluecraft Agency,40,I missed an important mention because it was buried in 200 other notifications.
+FB-0109,2026-09-17,Customer interview,Premium,Cedarstack Software,589,I spend hours building reports in spreadsheets because Relay reporting is weak. We're evaluating other tools because of this.
+FB-0110,2026-09-17,App review,Standard,Coralpoint Bank,20,"The board loads slowly for our India team, they wait ages every morning."
+FB-0111,2026-09-17,NPS comment,Standard,Maplepath Logistics,78,Being auto-watched on every task I touch creates endless notification noise.
+FB-0112,2026-09-17,Support ticket,Enterprise,Stoneridge Energy,4776,"External agency users can see our internal projects, that's a compliance problem."
+FB-0113,2026-09-18,App review,Standard,Harborgate Health,26,Love how easy it is to drag tasks between columns.
+FB-0114,2026-09-18,Sales call,Standard,Harborlight Education,31,"Customer said: we need search filters by date, project and owner."
+FB-0115,2026-09-18,Community forum,Premium,Lumenfield Media,398,Filtering a board with a few thousand cards hangs for 10 seconds.
+FB-0116,2026-09-18,Support ticket,Free,Quartzstack Software,4,The Android app is much slower than the iPhone app. This happens daily.
+FB-0117,2026-09-18,NPS comment,Premium,Vectorfield Media,290,The burndown report doesn't account for scope changes.
+FB-0118,2026-09-19,Community forum,Free,Brightpath Logistics,8,"We need search filters by date, project and owner."
+FB-0119,2026-09-19,Sales call,Standard,Copperwave Retail,49,Customer said: slack link previews for Relay tasks are broken in our workspace. Please prioritize this.
+FB-0120,2026-09-19,App review,Standard,Summitpath Logistics,43,"The mobile app crashes when I open a large project. Not a dealbreaker, but annoying."
+FB-0121,2026-09-20,Customer interview,Enterprise,Atlasworks,2555,"We need role-based permissions, not just admin and member."
+FB-0122,2026-09-20,Support ticket,Standard,Harborgate Health,26,An AI catch-up summary is the top request from our leadership team.
+FB-0123,2026-09-20,NPS comment,Standard,Lumenfin Labs,103,The mobile app logs me out every few days. We're evaluating other tools because of this.
+FB-0124,2026-09-20,Support ticket,Standard,Lumenfin Labs,103,The mobile app logs me out every few days. We're evaluating other tools because of this.
+FB-0125,2026-09-20,Customer interview,Standard,Maplewave Retail,107,Automation rules saved us a lot of manual work.
+FB-0126,2026-09-21,App review,Standard,Brightworks,20,"The new timeline view is great, the team uses it every day."
+FB-0127,2026-09-21,App review,Free,Cedarcraft Agency,10,"Clean interface, our designers actually enjoy using it."
+FB-0128,2026-09-21,Support ticket,Standard,Tidalline Studio,87,"GitHub pull requests don't link to tasks reliably, the GitHub sync keeps breaking."
+FB-0129,2026-09-22,Sales call,Enterprise,Atlaslight Education,1572,"Customer said: catching up on a 150-comment thread is painful, give me an AI summary of the key decisions."
+FB-0130,2026-09-22,Community forum,Enterprise,Coppercraft Agency,1594,"Attachments fail to upload from the mobile app. Not a dealbreaker, but annoying."
+FB-0131,2026-09-22,Sales call,Free,Silverwave Retail,7,Every morning standup starts with waiting for the board to load.
+FB-0132,2026-09-22,NPS comment,Enterprise,Stoneridge Energy,4776,"Large backlogs are basically unusable, scrolling stutters and cards load late. It's blocking our rollout to the rest of the company."
+FB-0133,2026-09-22,NPS comment,Standard,Tidalpoint Bank,24,"I wish onboarding offered setup templates for marketing teams, not just software teams. Several people on my team have raised this."
+FB-0134,2026-09-22,Support ticket,Premium,Vectorfield Media,290,Search can't find tasks I know exist unless I type the exact title.
+FB-0135,2026-09-23,NPS comment,Free,Harborpath Logistics,4,"My inbox is flooded with Relay notifications, I've started ignoring all of them."
+FB-0136,2026-09-23,Support ticket,Enterprise,Lumenpoint Bank,1883,"The board loads slowly for our India team, they wait ages every morning."
+FB-0137,2026-09-23,Customer interview,Free,Northcraft Agency,3,"Interview note: Onboarding was confusing, the setup has too many options for a new team. It's blocking our rollout to the rest of the company."
+FB-0138,2026-09-24,Customer interview,Free,Quartzridge Energy,9,"Interview note: The new timeline view is great, the team uses it every day."
+FB-0139,2026-09-24,Support ticket,Enterprise,Silverlight Education,1243,"I get an email notification for every single comment, it's way too noisy."
+FB-0140,2026-09-24,App review,Premium,Silverpoint Bank,379,Love how easy it is to drag tasks between columns.
+FB-0141,2026-09-24,Support ticket,Standard,Stonegate Health,77,"We want custom permission roles, for example can comment but not edit. Our renewal is coming up and this keeps coming up."
+FB-0142,2026-09-24,NPS comment,Enterprise,Stoneline Studio,4269,Automation rules saved us a lot of manual work.
+FB-0143,2026-09-25,Customer interview,Enterprise,Atlasworks,2555,Restricting project access by team instead of by individual user would save admins hours. It's blocking our rollout to the rest of the company.
+FB-0144,2026-09-25,App review,Standard,Lumenfin Labs,103,"Clean interface, our designers actually enjoy using it."
+FB-0145,2026-09-25,NPS comment,Enterprise,Quartzfield Media,4674,Automation rules saved us a lot of manual work.
+FB-0146,2026-09-25,Support ticket,Enterprise,Stoneridge Energy,4776,Filtering a board with a few thousand cards hangs for 10 seconds.
+FB-0147,2026-09-26,Sales call,Free,Cedarcraft Agency,10,"Relay keeps our whole team aligned, a big improvement over email."
+FB-0148,2026-09-26,App review,Free,Lumencraft Agency,4,"I wish onboarding offered setup templates for marketing teams, not just software teams."
+FB-0149,2026-09-26,Support ticket,Free,Maplelight Education,2,Backlog load time is the number one complaint from my engineers.
+FB-0150,2026-09-26,NPS comment,Standard,Vectorpath Logistics,12,Loading our main project board freezes the browser tab for several seconds. Several people on my team have raised this.
+FB-0151,2026-09-27,Support ticket,Premium,Lumenfield Media,398,"Switching between boards is slow, the spinner just keeps spinning."
+FB-0152,2026-09-27,Support ticket,Premium,Lumenfield Media,398,We need cycle time and lead time reports out of the box.
+FB-0153,2026-09-28,Sales call,Premium,Copperlight Education,468,Customer said: audit requirements mean we must control and log who can access each project.
+FB-0154,2026-09-28,App review,Standard,Lumenfin Labs,103,"Onboarding was confusing, the setup has too many options for a new team."
+FB-0155,2026-09-28,Support ticket,Standard,Lumengate Health,56,"We need search filters by date, project and owner."
+FB-0156,2026-09-28,App review,Free,Riverpath Logistics,4,No offline mode in the mobile app makes it useless on flights.
+FB-0157,2026-09-29,Community forum,Premium,Northfield Media,522,"Search results are ordered randomly, what I need is always on page 3. We're evaluating other tools because of this."
+FB-0158,2026-09-29,NPS comment,Premium,Orbitpath Logistics,294,"Search should understand questions, not just exact keywords. Please prioritize this."
+FB-0159,2026-09-29,Sales call,Standard,Quartzcraft Agency,37,"Customer said: we need role-based permissions, not just admin and member."
+FB-0160,2026-09-29,NPS comment,Enterprise,Vectorwave Retail,4134,Board performance on big projects has gotten worse since the last update.
+FB-0161,2026-09-30,Sales call,Premium,Cedarridge Energy,295,Customer said: i want to ask 'what's blocking the launch' and get an AI summary back. Several people on my team have asked for this.
+FB-0162,2026-09-30,Support ticket,Standard,Coralpoint Bank,20,Our roadmap board times out when we filter by assignee. Our renewal is coming up and this keeps coming up.
+FB-0163,2026-09-30,Support ticket,Premium,Harborfield Media,303,Our managers want a quick AI summary of blockers across all projects.
+FB-0164,2026-09-30,Support ticket,Free,Pinefield Media,3,"There is no GitLab integration, we can't switch our engineers until it exists."
+FB-0165,2026-09-30,Support ticket,Free,Pinefin Labs,6,"Our non-technical teammates gave up halfway through onboarding setup. Not a dealbreaker, but annoying."
+FB-0166,2026-09-30,Support ticket,Standard,Riverfield Media,79,"GitHub pull requests don't link to tasks reliably, the GitHub sync keeps breaking."
+FB-0167,2026-09-30,Community forum,Enterprise,Silverfin Labs,2790,I want to ask 'what's blocking the launch' and get an AI summary back.
+FB-0168,2026-10-01,Customer interview,Enterprise,Quartzfield Media,4674,"Writing the weekly status update takes me an hour, please generate a draft summary."
+FB-0169,2026-10-01,Sales call,Enterprise,Silverlight Education,1243,Customer said: we need sprint reports we can export to PDF for leadership.
+FB-0170,2026-10-01,Support ticket,Premium,Tidalworks,129,"Managing permissions for 3,000 users is impossible without groups."
+FB-0171,2026-10-02,Sales call,Enterprise,Harborline Studio,4625,Can Relay summarize a project's weekly progress so I don't have to write status updates?
+FB-0172,2026-10-02,Support ticket,Enterprise,Lumenpoint Bank,1883,Restricting project access by team instead of by individual user would save admins hours.
+FB-0173,2026-10-02,Support ticket,Enterprise,Orbitfin Labs,4331,We can't give clients read-only access to a board without exposing every project. Our renewal is coming up and this keeps coming up.
+FB-0174,2026-10-02,NPS comment,Enterprise,Quartzfield Media,4674,No offline mode in the mobile app makes it useless on flights.
+FB-0175,2026-10-02,Sales call,Standard,Tidalwave Retail,86,"Customer said: other tools now offer AI summaries of threads, we keep asking when Relay will. Several people on my team have asked for this."
+FB-0176,2026-10-03,Community forum,Enterprise,Atlasworks,2555,Drag and drop on the board lags badly on large projects.
+FB-0177,2026-10-03,Support ticket,Premium,Harborfield Media,303,"The board loads slowly for our India team, they wait ages every morning. Otherwise we like the product."
+FB-0178,2026-10-03,NPS comment,Premium,Silverworks,183,"New joiners can't get context fast, an AI summary of each epic's history would help. It would save us hours every week."
+FB-0179,2026-10-03,Sales call,Enterprise,Stoneline Studio,4269,"Customer said: other tools now offer AI summaries of threads, we keep asking when Relay will."
+FB-0180,2026-10-03,Sales call,Premium,Vectorfield Media,290,Customer said: velocity reporting across multiple teams is missing.
+FB-0181,2026-10-04,Community forum,Enterprise,Atlasworks,2555,"We need role-based permissions, not just admin and member. Several people on my team have raised this."
+FB-0182,2026-10-04,Support ticket,Premium,Harborfield Media,303,The webhook integration drops events when we push a lot of updates. We're evaluating other tools because of this.
+FB-0183,2026-10-04,Sales call,Standard,Harborgate Health,26,Customer said: our execs saw AI summary features in a competitor demo and asked why Relay has none.
+FB-0184,2026-10-04,Community forum,Standard,Lumengate Health,56,The Slack integration stopped posting updates to our channel again.
+FB-0185,2026-10-05,Support ticket,Standard,Orbitgate Health,80,The Google Calendar sync for due dates keeps duplicating events.
+FB-0186,2026-10-05,Support ticket,Standard,Summitline Studio,18,"I get an email notification for every single comment, it's way too noisy. Otherwise we like the product."
+FB-0187,2026-10-06,Support ticket,Free,Bluestack Software,10,"Search should understand questions, not just exact keywords. It's blocking our rollout to the rest of the company."
+FB-0188,2026-10-06,App review,Standard,Ironline Studio,26,The mobile app crashes when I open a large project.
+FB-0189,2026-10-06,Support ticket,Standard,Ironline Studio,26,The mobile app crashes when I open a large project.
+FB-0190,2026-10-07,App review,Premium,Cedarstack Software,589,"Other tools now offer AI summaries of threads, we keep asking when Relay will."
+FB-0191,2026-10-07,Support ticket,Enterprise,Quartzfield Media,4674,I missed an important mention because it was buried in 200 other notifications. Otherwise we like the product.
+FB-0192,2026-10-07,Community forum,Enterprise,Silverlight Education,1243,"External agency users can see our internal projects, that's a compliance problem. It's blocking our rollout to the rest of the company."
+FB-0193,2026-10-07,Support ticket,Standard,Summitline Studio,18,"A typo in search returns nothing, search should be more forgiving. We're evaluating other tools because of this."
+FB-0194,2026-10-07,Support ticket,Premium,Vectorfield Media,290,Leadership wants a portfolio dashboard that reports across all projects.
+FB-0195,2026-10-08,Community forum,Enterprise,Cedarline Studio,2359,Slack link previews for Relay tasks are broken in our workspace.
+FB-0196,2026-10-08,App review,Premium,Cedarstack Software,589,"Long comment threads are impossible to catch up on, an AI summary would save hours."
+FB-0197,2026-10-08,Support ticket,Standard,Copperstack Software,108,Slack messages from the Relay integration arrive hours late.
+FB-0198,2026-10-08,Support ticket,Enterprise,Coralline Studio,3702,Our security team blocked the rollout because we can't restrict access to HR projects.
+FB-0199,2026-10-08,Community forum,Premium,Lumenfield Media,398,"Searching old documents is useless, the search results are not relevant. This happens daily."
+FB-0200,2026-10-08,App review,Premium,Northpath Logistics,120,Loading our main project board freezes the browser tab for several seconds.
+FB-0201,2026-10-08,Community forum,Enterprise,Silverlight Education,1243,Slack messages from the Relay integration arrive hours late.
+FB-0202,2026-10-09,Support ticket,Standard,Brightgate Health,64,No offline mode in the mobile app makes it useless on flights.
+FB-0203,2026-10-09,Support ticket,Premium,Corallight Education,285,"We need role-based permissions, not just admin and member."
+FB-0204,2026-10-09,Customer interview,Free,Orbitcraft Agency,6,Interview note: The Android app is much slower than the iPhone app. It's blocking our rollout to the rest of the company.
+FB-0205,2026-10-09,Support ticket,Enterprise,Quartzwave Retail,4672,The burndown report doesn't account for scope changes. Please prioritize this.
+FB-0206,2026-10-10,NPS comment,Premium,Harborpoint Bank,508,"Searching old documents is useless, the search results are not relevant. Our renewal is coming up and this keeps coming up."
+FB-0207,2026-10-10,App review,Premium,Maplestack Software,81,Love how easy it is to drag tasks between columns.
+FB-0208,2026-10-11,Community forum,Free,Atlasridge Energy,7,It took us a week of setup to understand workflows vs boards during onboarding. Our renewal is coming up and this keeps coming up.
+FB-0209,2026-10-11,App review,Premium,Summitstack Software,92,No offline mode in the mobile app makes it useless on flights. This happens daily.
+FB-0210,2026-10-11,Customer interview,Premium,Vectorfield Media,290,An AI catch-up summary is the top request from our leadership team. Please prioritize this.
+FB-0211,2026-10-11,Community forum,Free,Vectorstack Software,8,The mobile app logs me out every few days.
+FB-0212,2026-10-12,Community forum,Standard,Copperline Studio,109,Slow board performance is pushing the team back to spreadsheets.
+FB-0213,2026-10-12,App review,Enterprise,Harborline Studio,4625,Our managers want a quick AI summary of blockers across all projects.
+FB-0214,2026-10-12,App review,Standard,Pinestack Software,106,Please let me batch notifications into a daily digest instead of instant emails.
+FB-0215,2026-10-12,Sales call,Enterprise,Quartzfield Media,4674,"Customer said: coming back from vacation, I need a summary of what changed on my tasks."
+FB-0216,2026-10-12,NPS comment,Enterprise,Stoneline Studio,4269,"We need per-channel notification controls for email, in-app and Slack."
+FB-0217,2026-10-12,App review,Enterprise,Vectorwave Retail,4134,We recreate documents because finding the original through search takes too long.
+FB-0218,2026-10-14,Customer interview,Free,Coralcraft Agency,8,We had to reconnect the GitHub integration three times this month.
+FB-0219,2026-10-14,Community forum,Standard,Coralpoint Bank,20,Our execs saw AI summary features in a competitor demo and asked why Relay has none.
+FB-0220,2026-10-14,NPS comment,Standard,Stonegate Health,77,"Notification settings are buried and too coarse, it's all or nothing. Several people on my team have raised this."
+FB-0221,2026-10-15,Sales call,Free,Ironfield Media,6,The webhook integration drops events when we push a lot of updates.
+FB-0222,2026-10-16,Community forum,Enterprise,Silverfin Labs,2790,Love how easy it is to drag tasks between columns.
+FB-0223,2026-10-17,Community forum,Free,Cedarlight Education,3,"Search should understand questions, not just exact keywords. Our renewal is coming up and this keeps coming up."
+FB-0224,2026-10-17,App review,Standard,Coralridge Energy,114,"Relay keeps our whole team aligned, a big improvement over email."
+FB-0225,2026-10-18,Support ticket,Enterprise,Atlasworks,2555,"Switching between boards is slow, the spinner just keeps spinning."
+FB-0226,2026-10-18,Customer interview,Free,Harborpath Logistics,4,Interview note: The mobile app logs me out every few days.
+FB-0227,2026-10-18,Sales call,Enterprise,Quartzfield Media,4674,Customer said: a one-click AI summary of the decisions made in a thread would be a killer feature.
+FB-0228,2026-10-18,Support ticket,Premium,Silverpoint Bank,379,We had to reconnect the GitHub integration three times this month.
+FB-0229,2026-10-19,NPS comment,Free,Lumencraft Agency,4,Being auto-watched on every task I touch creates endless notification noise. This happens daily.
+FB-0230,2026-10-19,Support ticket,Standard,Riverline Studio,51,We split one project into three just because the board was too slow to load.
+FB-0231,2026-10-19,Customer interview,Free,Riverpath Logistics,4,There's no way to mute notifications for a single project.
+FB-0232,2026-10-19,Sales call,Enterprise,Silverfin Labs,2790,Customer said: we need cycle time and lead time reports out of the box.
+FB-0233,2026-10-20,Community forum,Premium,Cedarridge Energy,295,"Catching up on a 150-comment thread is painful, give me an AI summary of the key decisions."
+FB-0234,2026-10-20,App review,Premium,Cedarstack Software,589,Importing from spreadsheets during onboarding setup failed silently.
+FB-0235,2026-10-20,Customer interview,Standard,Coralridge Energy,114,Interview note: Slack link previews for Relay tasks are broken in our workspace.
+FB-0236,2026-10-21,NPS comment,Enterprise,Atlasworks,2555,An AI catch-up summary is the top request from our leadership team. We'd upgrade our plan for this.
+FB-0237,2026-10-21,Support ticket,Standard,Bluecraft Agency,40,"The board loads slowly for our India team, they wait ages every morning. Please prioritize this."
+FB-0238,2026-10-21,NPS comment,Standard,Coralridge Energy,114,The mobile app crashes when I open a large project.
+FB-0239,2026-10-21,App review,Free,Ironworks,10,"My inbox is flooded with Relay notifications, I've started ignoring all of them. We're evaluating other tools because of this."
+FB-0240,2026-10-21,Support ticket,Free,Ironworks,10,"My inbox is flooded with Relay notifications, I've started ignoring all of them. We're evaluating other tools because of this."
+FB-0241,2026-10-21,Customer interview,Premium,Lumenfield Media,398,Interview note: A one-click AI summary of the decisions made in a thread would be a killer feature.
+FB-0242,2026-10-21,Support ticket,Standard,Lumenfin Labs,103,A one-click AI summary of the decisions made in a thread would be a killer feature.
+FB-0243,2026-10-21,Customer interview,Free,Quartzridge Energy,9,An AI catch-up summary is the top request from our leadership team.
+FB-0244,2026-10-21,App review,Enterprise,Silverfin Labs,2790,Our execs saw AI summary features in a competitor demo and asked why Relay has none.
+FB-0245,2026-10-21,App review,Standard,Stonegate Health,77,Attachments fail to upload from the mobile app.
+FB-0246,2026-10-21,Sales call,Free,Vectorridge Energy,6,Customer said: loading our main project board freezes the browser tab for several seconds. This happens daily.
+FB-0247,2026-10-22,Support ticket,Premium,Copperridge Energy,265,Drag and drop on the board lags badly on large projects. Please prioritize this.
+FB-0248,2026-10-22,Support ticket,Free,Harborcraft Agency,6,The onboarding templates don't match how small teams actually work. We're evaluating other tools because of this.
+FB-0249,2026-10-23,Community forum,Enterprise,Atlasworks,2555,Please let me batch notifications into a daily digest instead of instant emails. This happens daily.
+FB-0250,2026-10-24,NPS comment,Free,Quartzridge Energy,9,Notification spam is the most common complaint in our internal survey.
+FB-0251,2026-10-25,NPS comment,Free,Atlasridge Energy,7,Board performance on big projects has gotten worse since the last update.
+FB-0252,2026-10-25,Support ticket,Standard,Coralpoint Bank,20,"When a PR merges in GitHub the task should move to done, but the integration fails. This happens daily."
+FB-0253,2026-10-26,Customer interview,Enterprise,Coralline Studio,3702,"Interview note: Managing permissions for 3,000 users is impossible without groups."
+FB-0254,2026-10-26,Customer interview,Premium,Lumenfield Media,398,Interview note: A one-click AI summary of the decisions made in a thread would be a killer feature.
+FB-0255,2026-10-26,Customer interview,Free,Pinefin Labs,6,Interview note: We split one project into three just because the board was too slow to load.
+FB-0256,2026-10-26,Customer interview,Premium,Silverpoint Bank,379,The board view is painfully slow once a project gets big.
+FB-0257,2026-10-26,Support ticket,Premium,Stoneworks,345,The Google Calendar sync for due dates keeps duplicating events. Several people on my team have raised this.
+FB-0258,2026-10-27,NPS comment,Premium,Harborfield Media,303,We'd pay extra for AI that summarizes what happened in a sprint and flags risks. Please prioritize this.
+FB-0259,2026-10-27,Support ticket,Standard,Harborgate Health,26,Filtering a board with a few thousand cards hangs for 10 seconds. We're evaluating other tools because of this.
+FB-0260,2026-10-27,NPS comment,Standard,Pineridge Energy,82,Drag and drop on the board lags badly on large projects.
+FB-0261,2026-10-27,Sales call,Enterprise,Quartzwave Retail,4672,"Customer said: long comment threads are impossible to catch up on, an AI summary would save hours."
+FB-0262,2026-10-28,Support ticket,Enterprise,Atlaslight Education,1572,We can't give clients read-only access to a board without exposing every project.
+FB-0263,2026-10-28,App review,Premium,Coralwave Retail,313,Please let me batch notifications into a daily digest instead of instant emails. Several people on my team have raised this.
+FB-0264,2026-10-28,Community forum,Premium,Maplestack Software,81,A one-click AI summary of the decisions made in a thread would be a killer feature. It would save us hours every week.
+FB-0265,2026-10-28,App review,Premium,Orbitridge Energy,125,"We need per-channel notification controls for email, in-app and Slack."
+FB-0266,2026-10-28,Sales call,Enterprise,Quartzfield Media,4674,Customer said: our execs saw AI summary features in a competitor demo and asked why Relay has none.
+FB-0267,2026-10-28,Support ticket,Enterprise,Silverlight Education,1243,Slow board performance is pushing the team back to spreadsheets.
+FB-0268,2026-10-29,Support ticket,Enterprise,Cedarline Studio,2359,Backlog load time is the number one complaint from my engineers.
+FB-0269,2026-10-29,Community forum,Standard,Pineridge Energy,82,Backlog load time is the number one complaint from my engineers.
+FB-0270,2026-10-29,App review,Standard,Quartzpoint Bank,70,"Catching up on a 150-comment thread is painful, give me an AI summary of the key decisions. Several people on my team have asked for this."
+FB-0271,2026-10-30,NPS comment,Standard,Coralpoint Bank,20,"Catching up on a 150-comment thread is painful, give me an AI summary of the key decisions. We'd upgrade our plan for this."
+FB-0272,2026-10-30,NPS comment,Premium,Maplefin Labs,132,"Coming back from vacation, I need a summary of what changed on my tasks."
+FB-0273,2026-10-30,Support ticket,Premium,Orbitpath Logistics,294,Slack messages from the Relay integration arrive hours late. This happens daily.
+FB-0274,2026-10-30,NPS comment,Free,Quartzstack Software,4,Our roadmap board times out when we filter by assignee. Otherwise we like the product.
+FB-0275,2026-10-30,App review,Enterprise,Silverlight Education,1243,"Writing the weekly status update takes me an hour, please generate a draft summary."
+FB-0276,2026-10-30,NPS comment,Enterprise,Silverlight Education,1243,"Custom dashboards are too limited, we can't chart by custom fields."
+FB-0277,2026-10-30,Support ticket,Premium,Tidalworks,129,Our security team blocked the rollout because we can't restrict access to HR projects.
+FB-0278,2026-10-30,Community forum,Premium,Tidalworks,129,Our security team blocked the rollout because we can't restrict access to HR projects.
+FB-0279,2026-10-31,App review,Free,Brightcraft Agency,4,Importing from spreadsheets during onboarding setup failed silently.
+FB-0280,2026-10-31,Customer interview,Enterprise,Orbitfin Labs,4331,"Switching between boards is slow, the spinner just keeps spinning."

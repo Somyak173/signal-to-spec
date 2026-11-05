@@ -1,0 +1,22 @@
+Issue Id,Parent Id,Issue Type,Summary,Description,Priority,Labels,Labels
+1,,Epic,Catch-up summaries for long threads and projects,"23 accounts (29,007 seats) raised this 34 times across 6 channels. 71% of mentions carry urgency signals (blocked work, churn risk or willingness to pay).
+
+Rank #1 · opportunity score 228 · 34 mentions from 23 accounts (29,007 seats) · trend +67% vs prior 4 weeks.
+Segments: Enterprise 13 · Premium 11 · Standard 9 · Free 1",Highest,voice-of-customer,signal-to-spec
+2,1,Task,Discovery: interview 5 accounts about Catch-up summaries for long threads and projects,"Validate the problem and what 'fixed' means. Start with: Quartzfield Media (Enterprise, 4,674 seats); Quartzwave Retail (Enterprise, 4,672 seats); Harborline Studio (Enterprise, 4,625 seats); Stoneline Studio (Enterprise, 4,269 seats); Silverfin Labs (Enterprise, 2,790 seats)",Highest,voice-of-customer,signal-to-spec
+3,1,Task,Spike: solution options and effort for Catch-up summaries for long threads and projects,Engineering estimate in person-weeks. Add it to the team review file and re-run with --review to get a full RICE score.,Highest,voice-of-customer,signal-to-spec
+4,1,Task,Instrument: baseline metric for Catch-up summaries for long threads and projects,"Agree one in-product metric that moves if this is solved, and capture a baseline before build.",Highest,voice-of-customer,signal-to-spec
+5,,Epic,Unreliable Slack and GitHub sync,"26 accounts (19,436 seats) raised this 27 times across 6 channels. 48% of mentions carry urgency signals (blocked work, churn risk or willingness to pay).
+
+Rank #2 · opportunity score 142 · 27 mentions from 26 accounts (19,436 seats) · trend +100% vs prior 4 weeks.
+Segments: Standard 12 · Premium 7 · Enterprise 5 · Free 3",Highest,voice-of-customer,signal-to-spec
+6,5,Task,Discovery: interview 5 accounts about Unreliable Slack and GitHub sync,"Validate the problem and what 'fixed' means. Start with: Quartzfield Media (Enterprise, 4,674 seats); Stoneline Studio (Enterprise, 4,269 seats); Atlaspoint Bank (Enterprise, 4,167 seats); Cedarline Studio (Enterprise, 2,359 seats); Silverlight Education (Enterprise, 1,243 seats)",Highest,voice-of-customer,signal-to-spec
+7,5,Task,Spike: solution options and effort for Unreliable Slack and GitHub sync,Engineering estimate in person-weeks. Add it to the team review file and re-run with --review to get a full RICE score.,Highest,voice-of-customer,signal-to-spec
+8,5,Task,Instrument: baseline metric for Unreliable Slack and GitHub sync,"Agree one in-product metric that moves if this is solved, and capture a baseline before build.",Highest,voice-of-customer,signal-to-spec
+9,,Epic,Notification overload,"21 accounts (9,609 seats) raised this 28 times across 5 channels. 36% of mentions carry urgency signals (blocked work, churn risk or willingness to pay).
+
+Rank #3 · opportunity score 88 · 28 mentions from 21 accounts (9,609 seats) · trend -18% vs prior 4 weeks.
+Segments: Free 10 · Standard 10 · Enterprise 4 · Premium 4",High,voice-of-customer,signal-to-spec
+10,9,Task,Discovery: interview 5 accounts about Notification overload,"Validate the problem and what 'fixed' means. Start with: Quartzfield Media (Enterprise, 4,674 seats); Atlasworks (Enterprise, 2,555 seats); Silverlight Education (Enterprise, 1,243 seats); Coralwave Retail (Premium, 313 seats); Harborfield Media (Premium, 303 seats)",High,voice-of-customer,signal-to-spec
+11,9,Task,Spike: solution options and effort for Notification overload,Engineering estimate in person-weeks. Add it to the team review file and re-run with --review to get a full RICE score.,High,voice-of-customer,signal-to-spec
+12,9,Task,Instrument: baseline metric for Notification overload,"Agree one in-product metric that moves if this is solved, and capture a baseline before build.",High,voice-of-customer,signal-to-spec

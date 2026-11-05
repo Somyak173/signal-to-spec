@@ -1,0 +1,10 @@
+match,name,effort_weeks,notes
+summary,Catch-up summaries for long threads and projects,4,Builds on existing activity data; model cost to confirm
+load,Slow boards on large projects,6,Board virtualisation and query work
+notification,Notification overload,2,Per-project mute and a daily digest on the existing settings service
+search,Search misses what people know exists,5,Index comments and attachments; typo tolerance
+permission,Access control too coarse for enterprise,8,Custom roles and guest access touch auth everywhere
+integration,Unreliable Slack and GitHub sync,3,Retry queue and health checks for sync jobs
+onboarding,Confusing first-time setup,2,Shorter setup flow and two more templates
+mobile,Mobile app too limited to work on the go,6,Offline cache and editing in both apps
+report,Reporting too weak for leadership,4,Exportable sprint reports and cross-team velocity
